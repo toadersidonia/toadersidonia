@@ -12,8 +12,8 @@ Here you can find assignments, labs, and projects that I have completed during m
 
 ### Programming Tehniques in Java
 - [Project 1 – Task Management](https://github.com/toadersidonia/PT/tree/main/p1)
-- [Project 1 – Queues Management](https://github.com/toadersidonia/PT/tree/main/p2)
-- [Project 1 – Orders Management](https://github.com/toadersidonia/PT/tree/main/p3)
+- [Project 2 – Queues Management](https://github.com/toadersidonia/PT/tree/main/p2)
+- [Project 3 – Orders Management](https://github.com/toadersidonia/PT/tree/main/p3)
 
 
 ---
