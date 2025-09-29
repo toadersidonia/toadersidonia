@@ -9,7 +9,7 @@ Here you can find assignments, labs, and projects that I have completed during m
 ## 📚 Year 2
 
 ### Programming Tehniques in Java
-- [Project 1 – Task Manager]()
+- [Project 1 – Task Management](https://github.com/toadersidonia/PT/tree/main/p1)
 
 ---
 
