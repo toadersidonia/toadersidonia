@@ -13,6 +13,7 @@ Here you can find assignments, labs, and projects that I have completed during m
 
 
 
+
 ## 📚 Year 2
 
 ### Semester 1 – Electronic Measurements and Sensors
@@ -23,7 +24,7 @@ Here you can find assignments, labs, and projects that I have completed during m
 - [Project 2 – Queues Management](https://github.com/toadersidonia/PT/tree/main/p2)
 - [Project 3 – Orders Management](https://github.com/toadersidonia/PT/tree/main/p3)
 
-### Semester 2 – Computer Architecture in VHDL
+### Semester 2 – Computer Architecture 
 - [Project 1 – MIPS Single-Cycle](https://github.com/toadersidonia/CA/tree/main/MIPS%20Single%20Cycle)
 - [Project 2 – MIPS Pipeline](https://github.com/toadersidonia/CA/tree/main/MIPS%20Pipeline)
 
