@@ -13,7 +13,6 @@ Here you can find assignments, labs, and projects that I have completed during m
 ### Digital Systems Design
 - [Project – Pocket Calculator](https://github.com/toadersidonia/DSD/tree/main/Pocket%20Calculator)
   
----
 
 ## 📚 Year 2
 
