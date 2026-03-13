@@ -28,6 +28,14 @@ Here you can find assignments, labs, and projects that I have completed during m
 - [Project 1 – MIPS Single-Cycle](https://github.com/toadersidonia/CA/tree/main/MIPS%20Single%20Cycle)
 - [Project 2 – MIPS Pipeline](https://github.com/toadersidonia/CA/tree/main/MIPS%20Pipeline)
 
+
+
+## 📚 Year 3
+
+### Semester 1 – Software Engineering
+- [Project – Moodify Fullstack App](https://github.com/toadersidonia/SI/tree/main/Moodify)
+
+
 ---
 
 Feel free to explore the repositories and see my work in detail!  
